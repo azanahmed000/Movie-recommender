@@ -26,7 +26,7 @@ This project was later **enhanced with Claude Sonnet 4.5**, which transformed th
 Movie_Recomendation_system.ipynb      # Preprocessing + similarity + pickle generation
 streamlit web app.py                  # Streamlit frontend (UI + TMDB integration)
 movie.pkl                             # Preprocessed movie dataframe
-simliarity.pkl                        # Similarity matrix
+simliarity.pkl                        # Similarity matrix (The file is unavailable due to large size)
 tmdb_10k_movies.csv                   # TMDB metadata source
 README.md
 ```
